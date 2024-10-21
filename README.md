@@ -49,8 +49,12 @@ We evaluate clustering performance using the following metrics:
 Below are the visual representations of clustering results:
 
 - **K-Means Clustering Results:**
-<img width="1307" alt="Screenshot 2024-10-21 at 5 54 53 AM" src="https://github.com/user-attachments/assets/3d778593-6745-4e4f-89f5-a6866a383c5b">
-<img width="1255" alt="Screenshot 2024-10-21 at 5 55 29 AM" src="https://github.com/user-attachments/assets/d9cef17b-17c6-4d0e-b162-6d64405e17dd">
+| Index               | No data processing (c=3) | No data processing (c=4) | No data processing (c=5) | Normalized (c=3) | Normalized (c=4) | Normalized (c=5) | Transform (c=3) | Transform (c=4) | Transform (c=5) | PCA (c=3) | PCA (c=4) | PCA (c=5) | T+N (c=3) | T+N (c=4) | T+N (c=5) | T+N+P (c=3) | T+N+P (c=4) | T+N+P (c=5) |
+|---------------------|--------------------------|--------------------------|--------------------------|------------------|------------------|------------------|-----------------|-----------------|-----------------|-----------|-----------|-----------|-----------|-----------|-----------|--------------|--------------|--------------|
+| **Silhouette**       | 0.5528                   | 0.4954                   | 0.3663                   | 0.4565           | 0.4310           | 0.3450           | 0.6540          | 0.6131          | 0.5820          | 0.5520    | 0.4975    | 0.4922    | 0.4781    | 0.4272    | 0.3569    | 0.4781       | 0.4272       | 0.3569       |
+| **Calinski-Harabasz**| 561.6277                 | 529.1967                 | 456.0335                 | 239.4845         | 206.0730         | 202.6359         | 1164.8165       | 1346.6146       | 1378.3527       | 561.5936  | 530.4871  | 492.7029  | 225.3     | 213.7555  | 202.2256  | 225.3        | 213.7555      | 202.2256     |
+| **Davies-Bouldin**   | 0.662                    | 0.764                    | 0.916                    | 0.8275           | 0.9223           | 0.9439           | 0.4883          | 0.5369          | 0.5987          | 0.666     | 0.7757    | 0.8088    | 0.7434    | 0.9024    | 0.9181    | 0.7434       | 0.9024       | 0.9181       |
+
 
 - **Hierarchical Clustering Results:**
 
