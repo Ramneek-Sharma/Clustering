@@ -49,12 +49,14 @@ We evaluate clustering performance using the following metrics:
 Below are the visual representations of clustering results:
 
 - **K-Means Clustering Results:**
-
+<img width="1307" alt="Screenshot 2024-10-21 at 5 54 53 AM" src="https://github.com/user-attachments/assets/3d778593-6745-4e4f-89f5-a6866a383c5b">
+<img width="1255" alt="Screenshot 2024-10-21 at 5 55 29 AM" src="https://github.com/user-attachments/assets/d9cef17b-17c6-4d0e-b162-6d64405e17dd">
 
 - **Hierarchical Clustering Results:**
 
 
 - **Mean Shift Clustering Results:**
+
 
 
 
