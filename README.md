@@ -72,12 +72,12 @@ We evaluate clustering performance using the following metrics:
 Below are the visual representations of clustering results:
 
 - **K-Means Clustering Results:**
-[graph of kmean(click here](path/to/yourfile.pdf)
+[graph of kmean(click here)](https://github.com/Ramneek-Sharma/Clustering/blob/main/kmean_graph.pdf)
 - **Hierarchical Clustering Results:**
-
+[graph of Hierarchical(click here)](https://github.com/Ramneek-Sharma/Clustering/blob/main/heirarchy.pdf)
 
 - **Mean Shift Clustering Results:**
-
+[graph of MeanShift(click here)](https://github.com/Ramneek-Sharma/Clustering/blob/main/meanshift.pdf)
 
 
 
