@@ -53,7 +53,8 @@ We evaluate clustering performance using the following metrics:
 
 
 - **Hierarchical Clustering Results:**
-<img width="1320" alt="Screenshot 2024-10-21 at 6 20 27 AM" src="https:<img width="73" alt="Screenshot 2024-10-21 at 6 20 35 AM" src="https://github.com/user-attachments/assets/fddc8fdf-dbf1-4ae5-adc2-f3015045f412">
+<img width="1331" alt="Screenshot 2024-10-21 at 6 22 07 AM" src="https://github.com/user-attachments/assets/014ac91a-ee58-48a3-b96b-e36c95b990fa">
+
 <img width="69" alt="Screenshot 2024-10-21 at 6 16 26 AM" src="https://github.com/user-attachments/assets/cc2d1df2-e1e1-4b02-92dc-5e6f796a9b5c">
 <img width="375" alt="Screenshot 2024-10-21 at 6 20 48 AM" src="https://github.com/user-attachments/assets/f5cc8cdc-be27-4b06-8aff-e07960988080">
 
