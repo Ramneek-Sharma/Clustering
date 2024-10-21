@@ -53,6 +53,9 @@ We evaluate clustering performance using the following metrics:
 
 
 - **Mean Shift Clustering Results:**
+<img width="1321" alt="Screenshot 2024-10-21 at 6 16 14 AM" src="https://github.com/user-attachments/assets/774bcef8-ccc3-473c-8337-a0c416b99bfe">
+<img width="69" alt="Screenshot 2024-10-21 at 6 16 26 AM" src="https://github.com/user-attachments/assets/cc2d1df2-e1e1-4b02-92dc-5e6f796a9b5c">
+<img width="368" alt="Screenshot 2024-10-21 at 6 16 41 AM" src="https://github.com/user-attachments/assets/b92b3028-0dea-4ae9-a9ba-c95645564fdb">
 
 ### Visualizations
 
