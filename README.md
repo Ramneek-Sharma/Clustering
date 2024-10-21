@@ -44,12 +44,18 @@ We evaluate clustering performance using the following metrics:
 ## Results
 
 - **K-Means Clustering Results:**
+<img width="1317" alt="Screenshot 2024-10-21 at 6 19 48 AM" src="https://github.com/user-attachments/assets/5e53a148-490a-4b61-a14f-5543e273c2b0">
+<img width="71" alt="Screenshot 2024-10-21 at 6 20 03 AM" src="https://github.com/user-attachments/assets/92a5ffa3-1771-46a6-871a-54c53e740d2d">
+<img width="372" alt="Screenshot 2024-10-21 at 6 20 14 AM" src="https://github.com/user-attachments/assets/82bc24c6-c8d2-4ce7-a23a-6cb530a364a6">
 
 
 
 
 
 - **Hierarchical Clustering Results:**
+<img width="1320" alt="Screenshot 2024-10-21 at 6 20 27 AM" src="https:<img width="73" alt="Screenshot 2024-10-21 at 6 20 35 AM" src="https://github.com/user-attachments/assets/fddc8fdf-dbf1-4ae5-adc2-f3015045f412">
+<img width="69" alt="Screenshot 2024-10-21 at 6 16 26 AM" src="https://github.com/user-attachments/assets/cc2d1df2-e1e1-4b02-92dc-5e6f796a9b5c">
+<img width="375" alt="Screenshot 2024-10-21 at 6 20 48 AM" src="https://github.com/user-attachments/assets/f5cc8cdc-be27-4b06-8aff-e07960988080">
 
 
 - **Mean Shift Clustering Results:**
