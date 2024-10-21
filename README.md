@@ -72,8 +72,7 @@ We evaluate clustering performance using the following metrics:
 Below are the visual representations of clustering results:
 
 - **K-Means Clustering Results:**
-
-
+[graph of kmean(click here](path/to/yourfile.pdf)
 - **Hierarchical Clustering Results:**
 
 
