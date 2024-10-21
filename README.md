@@ -6,16 +6,6 @@ Three clustering algorithms are used : **K-Means**, **Hierarchical Clustering**,
   
   However, PyCaret doesn't generate some specific visualizations out-of-the-box, requiring users to manually plot them or use Scikit-learn or other libraries for advanced visualizations. Thats why the clustering also perform by **sckikit-learn**
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Datasets](#datasets)
-- [Clustering Algorithms](#clustering-algorithms)
-- [Metrics](#metrics)
-- [Results](#results)
-- [Conclusions](#conclusions)
-- [Installation](#installation)
-- [Usage](#usage)
 
 ## Overview
 
@@ -33,7 +23,7 @@ The goal is to compare the performance of these algorithms based on **Silhouette
 
 ## Datasets
 
-We used [Dataset XYZ] for this clustering analysis. The dataset contains multiple features that allow us to explore the performance of different clustering methods.
+Iris Dataset is used  for this clustering analysis. The dataset contains multiple features that allow us to explore the performance of different clustering methods.
 
 ## Clustering Algorithms
 
